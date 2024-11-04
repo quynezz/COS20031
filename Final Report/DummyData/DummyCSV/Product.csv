@@ -1,0 +1,101 @@
+product_id,supplier_id,category_id,price,stock_quantity,product_name,description
+1,11,22864,$3.08,22,Chips Potato Salt Vinegar 43g,scale strategic technologies
+2,90431,5,$2.33,16,Coffee - Frthy Coffee Crisp,implement B2B applications
+3,992,508,$2.62,71,Filter - Coffee,enable robust technologies
+4,19926,980,$1.90,87,"Pasta - Lasagna, Dry",synergize e-business schemas
+5,519,73055,$1.91,97,Lettuce - Treviso,scale sexy web-readiness
+6,10,03,$7.68,40,Cloves - Whole,enhance turn-key e-markets
+7,82456,4,$2.74,41,Salmon - Fillets,aggregate value-added e-tailers
+8,3327,1778,$6.50,72,Flour - Cake,benchmark sticky markets
+9,7390,1293,$4.13,85,Chinese Foods - Pepper Beef,recontextualize end-to-end interfaces
+10,6,2,$8.15,23,"Water - Mineral, Carbonated",brand real-time infomediaries
+11,9,08248,$3.64,89,Barley - Pearl,morph innovative ROI
+12,84,80,$6.72,46,"Wine - Magnotta, White",innovate granular relationships
+13,28,608,$0.36,44,Browning Caramel Glace,brand vertical infomediaries
+14,4055,8218,$7.50,5,Muffin - Banana Nut Individual,streamline open-source supply-chains
+15,0002,164,$9.74,96,Crawfish,reinvent end-to-end models
+16,46336,38,$9.53,37,Sugar - Icing,integrate 24/365 channels
+17,3,996,$2.82,18,"Wine - White, Gewurtzraminer",enhance clicks-and-mortar metrics
+18,14457,4063,$9.55,81,Glaze - Clear,seize one-to-one platforms
+19,1,64,$6.22,32,"Wine - Niagara,vqa Reisling",whiteboard user-centric platforms
+20,1,6,$6.04,2,Cheese - Brie,embrace viral vortals
+21,10814,103,$0.04,100,Dr. Pepper - 355ml,deploy B2C channels
+22,32,7,$5.75,74,Flower - Daisies,reinvent vertical deliverables
+23,1499,837,$4.69,75,Parsley Italian - Fresh,generate sexy supply-chains
+24,05,690,$7.98,22,Stainless Steel Cleaner Vision,unleash leading-edge bandwidth
+25,0,17266,$5.09,32,Flavouring - Raspberry,transition revolutionary technologies
+26,83,041,$2.45,14,Pork - Back Ribs,maximize web-enabled niches
+27,78890,832,$9.84,70,Cheese - Grie Des Champ,architect strategic synergies
+28,70,68,$0.76,72,Ice Cream - Super Sandwich,transform distributed convergence
+29,441,18229,$8.47,82,"Nut - Pecan, Halves",scale cross-media infrastructures
+30,972,654,$4.93,49,Appetiser - Bought,e-enable cross-platform platforms
+31,04019,0166,$2.05,40,Soup - French Can Pea,cultivate global mindshare
+32,688,3199,$3.45,98,Galliano,transition sexy models
+33,15,64,$2.15,73,Wine - Kwv Chenin Blanc South,repurpose clicks-and-mortar functionalities
+34,234,1,$6.39,55,Cocktail Napkin Blue,disintermediate global e-tailers
+35,6,443,$1.88,58,"Beans - Black Bean, Preserved",reinvent value-added web services
+36,43,8,$5.36,17,Garlic,incentivize one-to-one architectures
+37,32161,7,$5.73,60,Pepper Squash,morph transparent portals
+38,591,0,$5.79,65,"Pork - Ham, Virginia",envisioneer end-to-end e-business
+39,8155,1495,$7.96,91,Limes,incubate value-added solutions
+40,5,16,$0.71,57,"Sauce - Apple, Unsweetened",facilitate innovative platforms
+41,33772,1,$2.43,98,Pasta - Ravioli,engineer extensible initiatives
+42,8073,5,$3.48,85,Easy Off Oven Cleaner,incentivize revolutionary deliverables
+43,89,4,$1.79,54,Table Cloth 54x54 Colour,streamline strategic e-business
+44,61,30,$6.90,69,Potatoes - Pei 10 Oz,morph wireless mindshare
+45,8,49,$0.59,14,"Lemonade - Island Tea, 591 Ml",target customized communities
+46,10,463,$2.65,18,Beans - Green,synergize bricks-and-clicks interfaces
+47,36,566,$4.63,31,Butter Sweet,matrix next-generation vortals
+48,7420,57,$7.13,10,Soup Campbells - Italian Wedding,drive magnetic web services
+49,73,88969,$7.50,39,Steam Pan - Half Size Deep,utilize enterprise convergence
+50,3894,4852,$1.43,86,Tart - Pecan Butter Squares,exploit transparent technologies
+51,6,108,$7.21,85,Stock - Fish,scale best-of-breed channels
+52,78,04279,$2.73,8,Muffin Hinge - 211n,innovate impactful deliverables
+53,52,3776,$7.61,3,"Beef - Bones, Marrow",strategize user-centric web-readiness
+54,1,6,$8.06,89,Shopper Bag - S - 4,deploy seamless relationships
+55,57845,7,$2.16,55,Fiddlehead - Frozen,morph synergistic schemas
+56,42317,2918,$5.98,81,Truffle Cups - Red,synthesize leading-edge supply-chains
+57,6756,0,$0.48,62,"Fish - Atlantic Salmon, Cold",engineer open-source networks
+58,32595,5,$3.34,43,Wine - Chianti Classica Docg,brand enterprise solutions
+59,989,8848,$5.24,67,Island Oasis - Raspberry,orchestrate wireless users
+60,3610,52531,$8.11,35,Juice - Orange,grow clicks-and-mortar e-business
+61,16647,10471,$2.03,32,Beef - Shank,synergize open-source methodologies
+62,01730,3,$9.25,37,Bread - Granary Small Pull,reinvent proactive vortals
+63,26827,810,$4.46,45,"Pasta - Rotini, Dry",transition viral deliverables
+64,84224,43190,$0.96,98,"C - Plus, Orange",whiteboard proactive vortals
+65,0178,70948,$9.12,44,Ice Cream Bar - Drumstick,leverage seamless synergies
+66,277,26,$6.42,20,Cake - Bande Of Fruit,iterate clicks-and-mortar paradigms
+67,47,6,$0.28,70,Sprouts - Brussel,disintermediate B2C experiences
+68,160,252,$4.64,69,Ham Black Forest,matrix granular deliverables
+69,49,75369,$8.10,48,"Tuna - Canned, Flaked, Light",streamline leading-edge partnerships
+70,36145,5415,$2.13,23,Cheese - Goat,reintermediate real-time functionalities
+71,4433,191,$1.24,43,Mushroom Morel Fresh,recontextualize world-class web services
+72,3,43,$2.02,43,Lamb - Whole Head Off,deliver rich supply-chains
+73,887,5620,$3.53,44,Sage - Rubbed,drive intuitive systems
+74,9,694,$3.44,32,"Fish - Halibut, Cold Smoked",cultivate B2C e-tailers
+75,0,9,$2.96,100,Magnotta Bel Paese Red,incubate next-generation action-items
+76,40,22574,$5.09,95,"Wine - Red, Mouton Cadet",repurpose scalable eyeballs
+77,52768,50900,$5.35,25,Turkey Leg With Drum And Thigh,synergize enterprise solutions
+78,2672,54,$5.97,92,Easy Off Oven Cleaner,innovate sexy technologies
+79,2078,79,$5.08,82,"Mushroom - Shitake, Dry",synthesize transparent infrastructures
+80,2,3565,$8.13,96,Skirt - 24 Foot,reinvent dot-com supply-chains
+81,398,75,$1.56,66,Cream - 18%,deliver innovative users
+82,08086,20,$6.13,75,Chicken Breast Wing On,brand dynamic paradigms
+83,8,1,$6.48,89,Smoked Paprika,strategize dynamic infrastructures
+84,8167,10408,$3.68,31,Pastry - Trippleberry Muffin - Mini,aggregate vertical paradigms
+85,8,31429,$9.80,34,Muffin Mix - Lemon Cranberry,morph rich markets
+86,6195,74,$3.07,1,Wine - Jafflin Bourgongone,synthesize end-to-end e-business
+87,244,87,$5.10,43,"Pasta - Fusili, Dry",embrace integrated channels
+88,77126,626,$7.15,90,"Tart Shells - Sweet, 4",extend transparent synergies
+89,644,346,$4.96,31,Veal - Ground,matrix 24/365 infrastructures
+90,273,90,$7.72,46,Oil - Coconut,orchestrate extensible mindshare
+91,7732,8,$9.55,94,Corn Shoots,seize efficient bandwidth
+92,3462,046,$6.51,3,Vinegar - White,harness rich functionalities
+93,4,69,$6.03,78,Salami - Genova,enhance rich relationships
+94,5,9,$8.06,23,"Tabasco Sauce, 2 Oz",scale bricks-and-clicks e-services
+95,771,56,$1.93,36,Mackerel Whole Fresh,architect out-of-the-box web-readiness
+96,63935,07,$2.25,75,Extract - Rum,whiteboard cross-platform relationships
+97,34518,2,$6.03,54,"Trout - Hot Smkd, Dbl Fillet",revolutionize robust ROI
+98,3,73720,$3.56,90,"Chicken - Wings, Tip Off",enhance visionary e-tailers
+99,0559,4,$0.15,60,Muffin Mix - Lemon Cranberry,productize web-enabled relationships
+100,35974,4161,$7.97,73,"Oregano - Dry, Rubbed",expedite collaborative infrastructures

@@ -1,0 +1,101 @@
+payment_method_id,payment_method_name,payment_gateway
+1,switch,Rand Capital Corporation
+2,jcb,"Neurocrine Biosciences, Inc."
+3,mastercard,"Evoke Pharma, Inc."
+4,jcb,"Allied Motion Technologies, Inc."
+5,maestro,Boardwalk Pipeline Partners L.P.
+6,china-unionpay,EP Energy Corporation
+7,jcb,Sensata Technologies Holding N.V.
+8,jcb,"Rollins, Inc."
+9,mastercard,New York Times Company (The)
+10,bankcard,"Champions Oncology, Inc."
+11,jcb,"PrivateBancorp, Inc."
+12,jcb,Lyon William Homes
+13,mastercard,John Hancock Income Securities Trust
+14,instapayment,Citizens First Corporation
+15,jcb,J P Morgan Chase & Co
+16,bankcard,Novartis AG
+17,diners-club-us-ca,"XG Technology, Inc"
+18,maestro,Gladstone Land Corporation
+19,diners-club-carte-blanche,"Sage Therapeutics, Inc."
+20,diners-club-us-ca,Pacific Premier Bancorp Inc
+21,jcb,"Cavium, Inc."
+22,jcb,Kayne Anderson Energy Development Company
+23,jcb,National Energy Services Reunited Corp.
+24,china-unionpay,"OSI Systems, Inc."
+25,switch,"MYR Group, Inc."
+26,jcb,"Revlon, Inc."
+27,jcb,"Life Storage, Inc."
+28,diners-club-enroute,ContraVir Pharmaceuticals Inc
+29,jcb,Global X Social Media ETF
+30,jcb,Drive Shack Inc.
+31,visa-electron,Luminex Corporation
+32,americanexpress,"Alaska Air Group, Inc."
+33,jcb,Univar Inc.
+34,jcb,"AmeriGas Partners, L.P."
+35,switch,Huntsman Corporation
+36,china-unionpay,Itau Unibanco Banco Holding SA
+37,maestro,Glatfelter
+38,jcb,Hoegh LNG Partners LP
+39,jcb,"CBRE Group, Inc."
+40,instapayment,LaSalle Hotel Properties
+41,diners-club-enroute,Oxford Lane Capital Corp.
+42,jcb,Ultrapar Participacoes S.A.
+43,diners-club-carte-blanche,First Trust Mid Cap Core AlphaDEX Fund
+44,laser,"GSI Technology, Inc."
+45,mastercard,ITUS Corporation
+46,mastercard,"InterDigital, Inc."
+47,china-unionpay,TICC Capital Corp.
+48,jcb,Global X FinTech ETF
+49,bankcard,"Engility Holdings, Inc."
+50,jcb,Toro Company (The)
+51,jcb,Invesco Trust for Investment Grade Municipals
+52,americanexpress,Hugoton Royalty Trust
+53,bankcard,Liberty Global plc
+54,jcb,Ivy High Income Opportunities Fund
+55,jcb,Hershey Company (The)
+56,mastercard,"Steven Madden, Ltd."
+57,maestro,"Nu Skin Enterprises, Inc."
+58,mastercard,Cresud S.A.C.I.F. y A.
+59,mastercard,"Interpublic Group of Companies, Inc. (The)"
+60,solo,First Trust Nasdaq Transportation ETF
+61,jcb,JM Global Holding Company
+62,switch,"Washington Federal, Inc."
+63,jcb,"Kforce, Inc."
+64,switch,Career Education Corporation
+65,mastercard,"ABAXIS, Inc."
+66,china-unionpay,BB&T Corporation
+67,jcb,Triton International Limited
+68,jcb,"Nord Anglia Education, Inc."
+69,visa-electron,"Ironwood Pharmaceuticals, Inc."
+70,jcb,Nuveen Energy MLP Total Return Fund
+71,switch,First Trust RiverFront Dynamic Europe ETF
+72,bankcard,"Bazaarvoice, Inc."
+73,diners-club-international,Ally Financial Inc.
+74,jcb,North Atlantic Drilling Ltd.
+75,mastercard,"Wilhelmina International, Inc."
+76,diners-club-enroute,PowerShares Multi-Strategy Alternative Portfolio
+77,jcb,NXT-ID Inc.
+78,maestro,"Goldman Sachs Group, Inc. (The)"
+79,china-unionpay,W.R. Berkley Corporation
+80,solo,ABM Industries Incorporated
+81,maestro,Israel Chemicals Shs
+82,diners-club-enroute,Duff & Phelps Select Energy MLP Fund Inc.
+83,china-unionpay,First Trust Nasdaq Bank ETF
+84,americanexpress,iShares Global Infrastructure ETF
+85,americanexpress,"MIDSTATES PETROLEUM COMPANY, INC."
+86,jcb,Crescent Point Energy Corporation
+87,jcb,Immune Pharmaceuticals Inc.
+88,china-unionpay,"Spark Energy, Inc."
+89,diners-club-us-ca,Barington/Hilco Acquisition Corp.
+90,americanexpress,"B. Riley Financial, Inc."
+91,visa-electron,"Retrophin, Inc."
+92,jcb,Bright Horizons Family Solutions Inc.
+93,americanexpress,"Mesa Laboratories, Inc."
+94,bankcard,Moelis & Company
+95,diners-club-carte-blanche,Global Partners LP
+96,maestro,J P Morgan Chase & Co
+97,americanexpress,Vical Incorporated
+98,jcb,Aramark
+99,mastercard,"Cardinal Health, Inc."
+100,mastercard,"Mondelez International, Inc."

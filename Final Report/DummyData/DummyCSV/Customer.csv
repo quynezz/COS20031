@@ -1,0 +1,101 @@
+customer_id,customer_address,customer_email,customer_phone,customer_name,registration_date,loyalty_points
+1,2746 Gina Place,lkayne0@mtv.com,776-103-7453,Leyla Kayne,1/18/2024,56
+2,7 Sycamore Center,jrosengart1@wikipedia.org,535-450-3094,Jocelyne Rosengart,5/15/2024,19
+3,63389 Veith Court,tchadderton2@over-blog.com,179-826-0855,Terrijo Chadderton,6/26/2024,99
+4,4 Gale Alley,arolston3@businessweek.com,561-162-2095,Arnoldo Rolston,7/1/2024,96
+5,7864 Stone Corner Point,goldford4@gnu.org,788-850-9198,Giorgia Oldford,1/7/2024,8
+6,054 Ilene Crossing,rmont5@amazonaws.com,405-826-2315,Renell Mont,2/29/2024,83
+7,78 Bayside Plaza,jguidera6@wp.com,124-187-7579,Jobyna Guidera,9/5/2024,92
+8,2502 Forest Dale Hill,oswiffan7@over-blog.com,159-817-3647,Odille Swiffan,6/19/2024,75
+9,06 Morning Place,ekohn8@dot.gov,481-996-0604,Emmey Kohn,10/24/2024,66
+10,693 Barnett Court,ade9@freewebs.com,944-924-1298,Arabelle De La Hay,10/17/2024,28
+11,1 Esker Terrace,dconkeya@bluehost.com,862-453-7974,Dione Conkey,2/19/2024,36
+12,24933 Schurz Circle,atarrb@opera.com,408-316-0113,Addi Tarr,11/22/2023,83
+13,025 Milwaukee Center,kpickworthc@mozilla.com,561-662-7695,Keeley Pickworth,4/23/2024,68
+14,17 Vermont Lane,ljackettsd@ucla.edu,172-426-0635,Leland Jacketts,8/28/2024,18
+15,8 Reinke Terrace,kjurye@cbsnews.com,441-274-0824,Kerwinn Jury,7/3/2024,60
+16,97251 Packers Junction,dcastellinof@ifeng.com,831-755-0469,Dev Castellino,11/24/2023,39
+17,19 Iowa Junction,vlindeg@blogspot.com,199-860-8975,Vale Linde,5/21/2024,39
+18,51180 Farwell Lane,dandrewsh@xinhuanet.com,191-144-3478,Dalenna Andrews,8/18/2024,46
+19,8 Saint Paul Parkway,nchinai@goo.gl,749-301-6036,Nickolai China,8/9/2024,43
+20,195 Leroy Way,bkimbroughj@desdev.cn,272-440-2197,Betta Kimbrough,7/25/2024,79
+21,323 Muir Park,epyvisk@theguardian.com,210-696-4601,Erin Pyvis,8/27/2024,15
+22,6617 Troy Street,imercerl@fda.gov,203-498-4158,Ignacio Mercer,9/5/2024,94
+23,1488 Nevada Parkway,pkornackim@xinhuanet.com,695-962-4064,Pen Kornacki,5/10/2024,20
+24,42 Roth Road,ochesswasn@unblog.fr,693-849-4160,Ofilia Chesswas,11/30/2023,57
+25,0739 Nobel Point,dspeako@dropbox.com,932-631-7758,Deanna Speak,2/17/2024,54
+26,3 Nancy Court,epitcockp@msn.com,846-570-8981,Ethelbert Pitcock,2/4/2024,84
+27,171 Southridge Point,msilversmidtq@java.com,801-958-0482,Manya Silversmidt,8/21/2024,48
+28,619 Vidon Drive,emacenellyr@xinhuanet.com,749-609-8865,Eda MacEnelly,7/1/2024,96
+29,1 Rutledge Hill,ibenets@vkontakte.ru,711-951-8993,Ike Benet,1/4/2024,48
+30,45466 Harbort Junction,jthatchamt@tinypic.com,708-993-3537,Jerad Thatcham,5/24/2024,58
+31,61456 Bluejay Lane,cyearsleyu@phpbb.com,669-406-1252,Cyb Yearsley,12/29/2023,20
+32,06327 Golden Leaf Way,lwoolnerv@merriam-webster.com,381-294-1529,Linzy Woolner,5/15/2024,22
+33,5 Myrtle Avenue,ofarroww@techcrunch.com,809-582-9474,Obie Farrow,4/7/2024,80
+34,65 Melody Way,ybartonx@stanford.edu,810-179-6428,Yolanda Barton,4/28/2024,74
+35,346 Bultman Drive,ccystery@google.es,166-363-6574,Christin Cyster,2/8/2024,27
+36,029 Jackson Road,noloshinz@diigo.com,151-306-7733,Nichol Oloshin,12/6/2023,13
+37,3974 Birchwood Lane,ibrugsma10@so-net.ne.jp,631-497-3524,Ignazio Brugsma,6/19/2024,60
+38,6519 Vernon Park,erose11@webmd.com,112-342-6855,Estel Rose,11/15/2023,93
+39,262 Kedzie Way,odyte12@tripadvisor.com,327-664-4961,Oby Dyte,8/12/2024,3
+40,5 Talmadge Alley,jtesyro13@businessweek.com,509-627-4272,Javier Tesyro,4/11/2024,40
+41,94 Hauk Pass,vfeatenby14@patch.com,762-559-2682,Valentina Featenby,2/26/2024,36
+42,2425 Amoth Road,dflaverty15@google.it,106-942-8319,Doti Flaverty,5/8/2024,76
+43,04 Sugar Hill,tminett16@typepad.com,719-606-9338,Trevar Minett,7/14/2024,34
+44,227 Springs Point,baurelius17@unblog.fr,920-611-1274,Barnard Aurelius,12/14/2023,13
+45,8790 Killdeer Crossing,gweldon18@google.com.hk,226-538-2005,Giana Weldon,9/29/2024,37
+46,695 Prairie Rose Point,emannock19@tmall.com,353-907-5580,Emilee Mannock,7/31/2024,50
+47,4350 Dexter Junction,ovaudin1a@wired.com,811-565-8333,Odo Vaudin,8/16/2024,53
+48,8365 Blackbird Point,ktapsell1b@youtube.com,750-667-0250,Kirk Tapsell,3/17/2024,74
+49,46341 Little Fleur Hill,amunns1c@cnn.com,325-311-7962,Allyce Munns,12/13/2023,25
+50,906 Pearson Center,tzanussii1d@craigslist.org,765-513-0935,Thaine Zanussii,11/6/2023,17
+51,138 Clove Avenue,msoaper1e@soundcloud.com,541-667-7130,Meier Soaper,9/10/2024,78
+52,33 Pennsylvania Terrace,cwasielewski1f@liveinternet.ru,181-423-2895,Casey Wasielewski,10/28/2024,17
+53,10514 Manitowish Pass,sclint1g@go.com,200-691-9978,Sheelah Clint,10/9/2024,15
+54,0 Sundown Crossing,orobilliard1h@fastcompany.com,120-337-2968,Odella Robilliard,11/27/2023,83
+55,442 Acker Drive,zgiacobini1i@kickstarter.com,275-838-0521,Zorah Giacobini,6/27/2024,100
+56,6293 Kenwood Terrace,ehearson1j@domainmarket.com,470-418-2365,Emmery Hearson,10/9/2024,58
+57,1 Sycamore Parkway,mdanser1k@wordpress.com,287-799-7192,Melinda Danser,12/26/2023,33
+58,83226 Calypso Circle,dielden1l@php.net,893-852-4765,Dov Ielden,3/22/2024,9
+59,39968 Sommers Pass,gcorrin1m@sourceforge.net,728-916-8431,Galina Corrin,9/7/2024,87
+60,43263 Eliot Drive,ctimson1n@mapy.cz,768-464-0604,Christy Timson,3/29/2024,27
+61,29 Glendale Street,narson1o@list-manage.com,366-454-6479,Neely Arson,10/11/2024,91
+62,026 Heath Street,dmccurry1p@skyrock.com,561-558-4218,Demott McCurry,8/17/2024,47
+63,653 Towne Trail,omustoe1q@pen.io,582-813-1482,Orville Mustoe,1/14/2024,53
+64,0481 Miller Circle,tsulley1r@cisco.com,256-852-3221,Tiler Sulley,11/23/2023,33
+65,83470 Vernon Lane,gburdfield1s@imgur.com,492-492-6186,Garvy Burdfield,9/5/2024,96
+66,1 Elmside Pass,rboath1t@usnews.com,502-176-7932,Rudy Boath,12/16/2023,71
+67,483 Mayer Alley,wlooby1u@newsvine.com,507-831-8843,Wyatt Looby,10/12/2024,14
+68,6252 Elmside Hill,lprinnett1v@alexa.com,587-240-0963,Laural Prinnett,12/2/2023,73
+69,7 Village Hill,atackell1w@prweb.com,447-350-4362,Antonietta Tackell,4/22/2024,3
+70,5 Schlimgen Junction,efardell1x@themeforest.net,889-979-2188,Evangelin Fardell,5/24/2024,96
+71,49 Milwaukee Parkway,bwhickman1y@bluehost.com,399-473-9788,Bettina Whickman,11/16/2023,95
+72,69 Dennis Trail,elabes1z@zimbio.com,870-942-3080,Erna Labes,11/1/2024,11
+73,40 Monica Crossing,rburgot20@indiatimes.com,777-408-9602,Ricoriki Burgot,9/3/2024,6
+74,5616 Pennsylvania Parkway,bhurton21@friendfeed.com,964-234-2280,Betteanne Hurton,5/20/2024,94
+75,4592 Drewry Junction,ayann22@samsung.com,986-158-1949,Alisa Yann,12/22/2023,37
+76,2682 Hallows Alley,mhansill23@histats.com,329-949-1529,Martguerita Hansill,5/17/2024,29
+77,86 Prairie Rose Crossing,tknapman24@pen.io,662-658-9905,Taddeo Knapman,6/11/2024,92
+78,0978 Fairfield Place,hmeindl25@opensource.org,740-391-8800,Hoyt Meindl,12/6/2023,67
+79,8 Vera Plaza,gtousey26@cbc.ca,845-129-6975,Gnni Tousey,2/6/2024,49
+80,65176 Pepper Wood Court,rwalkling27@ezinearticles.com,752-363-1926,Rozalin Walkling,11/2/2024,93
+81,274 Park Meadow Way,lmatussow28@lycos.com,582-461-6290,Lindsey Matussow,11/26/2023,6
+82,401 Havey Avenue,hseckington29@dedecms.com,833-944-8344,Huntington Seckington,6/22/2024,13
+83,2343 Saint Paul Place,alethardy2a@google.co.uk,208-957-4497,Anne-marie Lethardy,6/13/2024,90
+84,783 Delladonna Way,awhiles2b@facebook.com,697-626-2641,Abe Whiles,3/30/2024,22
+85,92117 Schmedeman Drive,adaulby2c@issuu.com,817-659-8651,Alvie Daulby,7/20/2024,63
+86,609 Stephen Hill,bguerrero2d@illinois.edu,393-285-8488,Brucie Guerrero,7/13/2024,41
+87,1611 Novick Terrace,kcristol2e@ucoz.ru,871-386-3646,Kessia Cristol,4/7/2024,93
+88,16 Macpherson Trail,ufavelle2f@bizjournals.com,817-814-1055,Umeko Favelle,9/22/2024,70
+89,52 Parkside Alley,ahanscom2g@chronoengine.com,767-773-6459,Adiana Hanscom,7/12/2024,38
+90,47 Stone Corner Court,ltwitchings2h@deviantart.com,845-845-8886,Lesya Twitchings,8/26/2024,20
+91,2070 Blaine Junction,lbryde2i@epa.gov,841-498-8851,Lelah Bryde,3/22/2024,77
+92,41634 Blue Bill Park Pass,mtellesson2j@yandex.ru,339-883-2518,Matthieu Tellesson,5/9/2024,65
+93,78 Carioca Center,dbrewett2k@engadget.com,623-191-5815,Davidson Brewett,9/10/2024,70
+94,2 Jackson Junction,hbuscher2l@last.fm,360-835-8758,Haywood Buscher,9/15/2024,45
+95,302 Golf Course Road,wgurnee2m@senate.gov,614-906-3675,Wallie Gurnee,6/9/2024,86
+96,36 Bellgrove Point,jgravenor2n@virginia.edu,750-525-3960,Jerrome Gravenor,1/9/2024,90
+97,668 Caliangt Way,cpeasby2o@dailymail.co.uk,296-728-6558,Caria Peasby,2/17/2024,93
+98,560 Sherman Crossing,tfreddi2p@privacy.gov.au,806-444-2605,Torry Freddi,8/23/2024,32
+99,57 Hanson Hill,dyouings2q@cloudflare.com,832-818-1581,Daisey Youings,9/20/2024,10
+100,34939 Eagan Park,fmelmore2r@timesonline.co.uk,487-568-5390,Freedman Melmore,6/27/2024,3

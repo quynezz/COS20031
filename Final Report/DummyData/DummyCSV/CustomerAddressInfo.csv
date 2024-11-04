@@ -1,0 +1,101 @@
+address_id,customer_id,address_type,customer_address,city,state,zip_code,country,region
+52,1,135.124.186.144,58816 David Crossing,Nieuw Nickerie,,,Suriname,CN-63
+5,2,251.100.236.40,8 Troy Point,Ad Dilam,,,Saudi Arabia,RU-KIR
+08,3,227.71.222.65,9053 Union Pass,Boulder,Colorado,80305,United States,CU-04
+7289,4,6.65.86.222,8 Butternut Road,Yujin,,,China,US-AZ
+800,5,248.80.235.227,1 American Ash Crossing,Sarapul,,427985,Russia,CO-MAG
+567,6,2.170.20.249,4975 Charing Cross Court,Kangxung,,,China,US-MO
+81,7,49.105.154.107,6387 Dapin Trail,Bello,,051059,Colombia,SE-Y
+888,8,176.60.229.159,446 Lake View Point,Mollas,,,Albania,ID-SS
+6654,9,1.253.172.222,553 Victoria Parkway,Aubergenville,Île-de-France,78415 CEDEX,France,SE-BD
+4800,10,149.46.137.183,2 Blaine Circle,Rakiv Lis,,,Ukraine,ID-NT
+58830,11,144.14.86.206,9957 Manitowish Hill,Eslöv,Skåne,241 91,Sweden,CA-NT
+05,12,30.213.78.55,4400 Vernon Terrace,Bang Kaeo,,93140,Thailand,NO-14
+1545,13,217.130.247.48,549 Clarendon Road,Lazaro Cardenas,Mexico,55407,Mexico,FR-J
+96,14,134.181.67.74,148 Crescent Oaks Way,An Naşr,,,Palestinian Territory,US-IL
+9,15,59.29.221.122,2406 Bunting Crossing,Niafunké,,,Mali,TR-34
+895,16,132.225.237.98,25501 Sunnyside Point,Zhongguanyi,,,China,US-AK
+2,17,145.234.226.118,3671 Summerview Junction,Bama,,,Nigeria,PH-SUR
+4061,18,128.211.49.46,66 Stuart Pass,Harnoli,,42020,Pakistan,RU-IRK
+22,19,67.25.102.197,5 Mosinee Street,Omsukchan,,686416,Russia,NA-KA
+23399,20,61.136.80.142,19 South Junction,Nyagan,,628189,Russia,IT-25
+591,21,129.62.9.196,55420 Thompson Court,Río Ceballos,,5113,Argentina,BO-B
+1,22,75.32.52.151,5 Granby Court,Chenqiao,,,China,MM-07
+2,23,154.214.239.249,88855 Melrose Avenue,Niedzica,,34-441,Poland,IT-25
+55166,24,206.190.185.118,90 Lyons Plaza,Randuagung,,,Indonesia,AU-NSW
+3,25,57.134.201.61,143 Kim Plaza,Guluoshan,,,China,CK-U-A
+5288,26,71.16.81.186,3535 Waywood Hill,Jiangguanchi,,,China,PG-GPK
+19,27,134.217.52.253,1 Cambridge Crossing,Santana,,47700-000,Brazil,CL-BI
+314,28,162.42.25.93,11243 Sommers Junction,Dióni,,,Greece,AU-VIC
+3,29,190.182.199.118,754 Parkside Park,Namangan,,,Uzbekistan,ES-CT
+53,30,203.20.142.35,9087 Clyde Gallagher Alley,Palmares,,55540-000,Brazil,US-CA
+47100,31,185.129.29.63,6 Commercial Plaza,Dahongmen,,,China,AO-LNO
+23,32,100.239.157.76,8 Claremont Pass,Unquillo,,5109,Argentina,CA-MB
+9158,33,121.159.118.155,2682 Pierstorff Way,Emmen,Provincie Drenthe,7804,Netherlands,PG-EPW
+2056,34,145.60.25.35,8772 Linden Lane,Kostino,,613060,Russia,US-WA
+51,35,39.97.118.245,0506 Derek Place,Mulino,,606083,Russia,GB-SCT
+993,36,161.51.250.213,6 Warrior Junction,Espargos,,,Cape Verde,IE-KK
+531,37,195.237.14.82,90725 Gina Drive,Datian,,,China,US-AK
+93,38,26.227.192.30,5033 Tony Crossing,Nepomuceno,,37250-000,Brazil,YE-SN
+74,39,228.154.177.77,6372 Algoma Place,Valenciennes,Nord-Pas-de-Calais,59309 CEDEX,France,ID-MA
+3,40,22.138.194.42,02624 Aberg Drive,Sumberrejo,,,Indonesia,AE-DU
+41,41,235.220.254.124,50026 Anhalt Drive,Calumpit,,3003,Philippines,FJ-E
+445,42,241.174.16.178,64 Mcguire Circle,Hanyuan,,,China,US-AK
+3,43,119.91.206.8,548 Waxwing Way,Isidro Fabela,Mexico,54932,Mexico,JP-01
+9378,44,225.174.223.177,11 Shasta Way,Al Qāmishlī,,,Syria,PG-MPL
+33,45,120.77.94.222,032 Bartillon Plaza,Lameiro,Leiria,2425-317,Portugal,VN-28
+2339,46,138.16.59.18,3215 Dexter Junction,San Jose,,8427,Philippines,BR-RS
+91896,47,220.188.112.121,951 Warner Street,Jistebník,,742 82,Czech Republic,NG-RI
+3450,48,240.3.136.203,8224 Dapin Trail,Xuedian,,,China,TH-72
+6,49,214.246.141.215,3067 2nd Road,Kebili,,,Tunisia,JP-01
+2,50,248.90.155.204,06 Comanche Crossing,Hörby,Skåne,242 35,Sweden,GR-56
+012,51,221.220.218.41,70470 Grayhawk Avenue,Adani,,,Nigeria,US-AK
+9992,52,204.1.33.162,192 Almo Street,Emmen,Provincie Drenthe,7804,Netherlands,NA-ER
+87109,53,182.18.186.154,5 Dorton Point,Bangkal,,,Indonesia,IR-08
+612,54,87.2.178.236,540 Mayfield Trail,Juancheng,,,China,DZ-22
+8,55,243.3.169.182,84508 Bobwhite Pass,Kedungsinggil,,,Indonesia,PH-TAW
+53,56,215.152.47.127,82 Macpherson Way,Skerries,,K34,Ireland,US-NC
+1750,57,190.153.29.7,296 Bellgrove Court,Gununglarang,,,Indonesia,GN-L
+35629,58,78.91.245.210,50855 Continental Trail,Kiboga,,,Uganda,US-AK
+0430,59,46.67.119.145,16 Troy Trail,Ketawang,,,Indonesia,TR-76
+27,60,123.58.249.247,7 Ohio Road,Akureyri,,603,Iceland,HN-YO
+2442,61,229.110.210.157,6 Heffernan Road,Bemposta,Braga,4730-010,Portugal,IT-82
+0,62,117.207.153.14,8371 Summer Ridge Center,Menggala,,,Indonesia,LR-LO
+502,63,129.233.24.66,166 Burrows Parkway,Norfolk,Virginia,23509,United States,MH-NMU
+77,64,103.119.59.194,8 Arizona Park,Tianzhu,,,China,CU-08
+409,65,2.5.242.243,6537 Moulton Center,Souto,Porto,4600-661,Portugal,NC-U-A
+9472,66,80.109.144.14,5 Monument Trail,Namangan Shahri,,,Uzbekistan,BR-MG
+16,67,129.136.10.136,468 Oakridge Plaza,Tanggulangin,,,Indonesia,FR-C
+6097,68,101.151.74.245,685 Katie Parkway,Cauday,,,Peru,CA-ON
+4305,69,116.198.205.238,52510 Harbort Crossing,Zhenziliang,,,China,PK-PB
+108,70,125.127.95.132,8 Emmet Circle,Hanyuan,,,China,PH-SUN
+7,71,234.10.65.228,69 Transport Crossing,Serowe,,,Botswana,SN-TC
+5766,72,115.249.190.66,4883 Butterfield Hill,Zuobude,,,China,CO-CHO
+8,73,96.180.244.160,99931 Arrowood Terrace,Carvalhais,Coimbra,3040-662,Portugal,SE-AC
+40,74,0.191.186.18,234 Moulton Trail,Palma De Mallorca,Baleares,07121,Spain,EG-WAD
+33866,75,167.235.247.100,677 Crowley Parkway,Araras,,13600-000,Brazil,TH-80
+65,76,5.181.62.247,09 Schiller Road,Krasnofarfornyy,,174214,Russia,MA-OUJ
+1948,77,152.93.199.70,6 Dahle Parkway,Ibusuki,,574-0072,Japan,NG-FC
+37239,78,78.102.218.191,5 Mcbride Park,Chakaray,,,Afghanistan,BR-SP
+567,79,216.19.146.77,56 Bluestem Center,Rimbo,Stockholm,762 31,Sweden,US-PA
+9,80,47.29.225.82,96 Aberg Crossing,Västerås,Västmanland,725 96,Sweden,AU-NSW
+586,81,214.247.49.53,787 Independence Hill,Budayuan,,,China,PK-BA
+86533,82,122.187.144.127,2 Main Plaza,Nakło nad Notecią,,61-710,Poland,PH-PLW
+003,83,52.89.82.162,261 Sutherland Alley,Špišić-Bukovica,,33405,Croatia,AU-WA
+625,84,113.229.50.126,9 Mcbride Center,Smara,,,Western Sahara,ET-BE
+0277,85,33.72.15.168,73629 Eggendart Trail,Fort Lauderdale,Florida,33330,United States,US-MI
+758,86,243.159.105.237,964 Manitowish Plaza,Folques,Coimbra,3300-265,Portugal,US-CA
+8,87,111.19.174.104,13153 Melrose Pass,Sel’tso,,241551,Russia,US-NE
+22,88,67.6.67.95,9 Petterle Parkway,Gambalidio,,4025,Philippines,AR-R
+2,89,157.184.120.85,02980 Jackson Drive,Trollhättan,Västra Götaland,461 42,Sweden,FI-ES
+1013,90,206.177.188.186,12047 Carpenter Hill,Ludgeřovice,,747 14,Czech Republic,AU-SA
+26,91,13.54.115.76,1 Walton Junction,Diamante,,3105,Argentina,VU-TOB
+69,92,224.109.172.34,0 Gerald Lane,Chantepie,Bretagne,35574 CEDEX,France,PF-U-A
+0855,93,31.128.101.43,385 Mayfield Hill,Quiriquire,,,Venezuela,PG-WPD
+6716,94,186.137.110.198,34791 Katie Center,Prokhladnyy,,366041,Russia,AU-VIC
+378,95,36.241.65.76,74 Kropf Pass,Bato,,6525,Philippines,DE-BW
+4,96,39.35.161.248,6 Spaight Point,R S,Gujarat,395003,India,CK-U-A
+54392,97,23.177.154.119,3270 Sunfield Terrace,Naryn,,,Kyrgyzstan,US-MS
+6,98,75.39.114.182,92826 Cascade Drive,Krasnyy Oktyabr’,,601974,Russia,US-AK
+75,99,84.191.132.197,0 Crescent Oaks Pass,Masu,,,Indonesia,MY-13
+47,100,222.142.132.18,2 International Road,Nova Viçosa,,45920-000,Brazil,KI-G
